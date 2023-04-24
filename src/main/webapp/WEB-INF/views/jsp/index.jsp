@@ -24,11 +24,11 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hello all from sherlin ${msg}
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Welcome Welcome Time flies!
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Click Here for Learning</a>
@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Sherlin's Technologies, Chennai, Inida ,TN.</h2>
+			<h2>Welcome To Sherlin's Technologies, Chennai, Inida ,TN. Excellent</h2>
 			<h3>Application Launching</h3>
 		</div>	
 	</div>
