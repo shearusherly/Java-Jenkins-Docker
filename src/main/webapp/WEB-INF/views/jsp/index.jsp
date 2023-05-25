@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>My Docker sample web page</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -24,14 +24,14 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hello all from sherlin ${msg}
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Welcome Welcome Time flies!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Click Here for Learning</a>
 		</p>
 	</div>
 </div>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Sherlin's Technologies, Chennai, Inida ,TN. Excellent</h2>
+			<h3>Application Launching</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Sherlin Sharmi 2019</p>
 	</footer>
 </div>
 
