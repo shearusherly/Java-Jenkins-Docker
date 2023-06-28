@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Sherlin's Technologies, Chennai, Inida ,TN. Excellent</h2>
+			<h2>Welcome To Sherlin's Technologies, Chennai, India ,TN. Excellent</h2>
 			<h3>Application Launching</h3>
 		</div>	
 	</div>
